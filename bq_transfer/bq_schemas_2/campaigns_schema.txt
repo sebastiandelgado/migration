@@ -1,0 +1,5 @@
+[
+	{"name": "id", "type": "string", "mode": "required"},
+	{"name": "name", "type": "string", "mode": "required"},
+	{"name": "type", "type": "string", "mode": "required"}
+]

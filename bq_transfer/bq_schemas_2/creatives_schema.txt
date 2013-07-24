@@ -1,0 +1,6 @@
+[
+	{"name": "id", "type": "string", "mode": "required"},
+	{"name": "name", "type": "string", "mode": "required"},
+	{"name": "landscape", "type": "string", "mode": "required"},
+	{"name": "portrait", "type": "string", "mode": "required"}
+]

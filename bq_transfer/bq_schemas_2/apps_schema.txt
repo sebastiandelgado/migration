@@ -1,0 +1,8 @@
+[
+	{"name": "id", "type": "string", "mode": "required"},
+	{"name": "name", "type": "string", "mode": "required"},
+	{"name": "platform", "type": "string", "mode": "required"},
+	{"name": "app_store", "type": "string", "mode": "required"},
+	{"name": "company_id", "type": "string", "mode": "required"},
+	{"name": "company", "type": "string", "mode": "required"}
+]
